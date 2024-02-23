@@ -12,7 +12,13 @@ Shinny App - https://lbttn.shinyapps.io/prediction-word/
 
 Github Repository - https://github.com/LuccasBetton/Capstone_DataScience_JHS
 
-### Google Data Analytics
+### Bike Share App Analysis - Google Data Analytics
+
+The main objective in this analysis was to evaluate the behavior of two types of users of a bike share app services, member users that have a annual membership plan and casual users that acquire single rides. It was evaluated different parameters such as ride type (classic, electrical, docked), ride duration, weekday, month, hour of the day. Considering this variables, it was observed different behaviors in this two type of users in order to give a direction for Marketing team to increase member users.
+
+Project - nhttps://rpubs.com/bettonl/bikeshare_cyclistic_case
+
+Github Repository - 
 
 ## Education
 
